@@ -1,4 +1,4 @@
 # Certifications Chart
 
-TODO: Add the community certifications flowchart here
+![](../.gitbook/assets/roadmap.png)
 
