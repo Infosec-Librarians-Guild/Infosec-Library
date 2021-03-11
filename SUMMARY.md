@@ -6,3 +6,12 @@
 
 * [Overview](web-1/web-overview.md)
 
+## Overview
+
+* [Mission Statement](overview/mission-statement.md)
+* [Content Guidelines](overview/content-guidelines.md)
+
+---
+
+* [ILG Discord](https://discord.gg/yqyJqvCmjq)
+
