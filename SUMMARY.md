@@ -28,9 +28,15 @@
 
 * [Overview](web-1/web-overview.md)
 
+## Binary Exploitation
+
+* [Heap Exploitation \(DEMO\)](binary-exploitation/untitled-1.md)
+
 ## Reverse Engineering
 
-* [Untitled](reverse-engineering/untitled.md)
+---
+
+* [Untitled](untitled.md)
 
 ## Training Websites
 
