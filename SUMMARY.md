@@ -30,7 +30,9 @@
 
 ## Binary Exploitation
 
-* [Heap Exploitation \(DEMO\)](binary-exploitation/untitled-1.md)
+* [Linux](binary-exploitation/linux.md)
+* [Windows](binary-exploitation/windows/README.md)
+  * [Heap Exploitation \(DEMO\)](binary-exploitation/windows/untitled-1.md)
 
 ## Reverse Engineering
 
