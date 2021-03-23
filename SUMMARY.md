@@ -47,3 +47,7 @@
 * [HackTheBox](training-websites/hackthebox.md)
 * [OverTheWire](training-websites/overthewire.md)
 
+## Bug Bounty
+
+* [EdOverflow's Bug Bounty Guide](bug-bounty/edoverflows-bug-bounty-guide.md)
+
