@@ -40,6 +40,7 @@
 ## Training Websites
 
 * [Overview](training-websites/overview.md)
+* [Regulations](training-websites/regulations.md)
 * [General Training](training-websites/general-training.md)
 * [Offensive](training-websites/offense/README.md)
   * [CyberSecLabs](training-websites/offense/cyberseclabs.md)
