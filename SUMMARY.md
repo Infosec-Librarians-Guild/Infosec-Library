@@ -15,14 +15,10 @@
 ## Certifications Overview
 
 * [Certifications Chart](certifications-overview/certifications-chart.md)
-
-## Security+
-
-* [Untitled](security+/untitled.md)
-
-## OSCP
-
-* [Overview](oscp/overview.md)
+* [CompTIA](certifications-overview/comptia/README.md)
+  * [Security+](certifications-overview/comptia/untitled.md)
+* [eLearnSecurity/INE](certifications-overview/elearnsecurity-ine.md)
+* [Offensive Security](certifications-overview/offensive-security.md)
 
 ## Web <a id="web-1"></a>
 
