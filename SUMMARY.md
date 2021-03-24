@@ -45,10 +45,11 @@
 
 * [Overview](training-websites/overview.md)
 * [General Training](training-websites/general-training.md)
-* [Offense](training-websites/offense/README.md)
+* [Offensive](training-websites/offense/README.md)
   * [CyberSecLabs](training-websites/offense/cyberseclabs.md)
   * [TryHackMe](training-websites/offense/tryhackme.md)
-  * [Untitled](training-websites/offense/untitled.md)
+  * [Pentester Lab](training-websites/offense/untitled.md)
+  * [Pentester Academy](training-websites/offense/pentester-academy.md)
   * [HackTheBox](training-websites/offense/hackthebox.md)
 * [Defense](training-websites/defense/README.md)
   * [TryHackMe](training-websites/defense/tryhackme.md)
