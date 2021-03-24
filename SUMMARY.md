@@ -38,16 +38,28 @@
 
 ---
 
-* [Untitled](untitled.md)
+* [Resources](resources.md)
+* [Training](untitled.md)
 
 ## Training Websites
 
 * [Overview](training-websites/overview.md)
-* [TryHackMe](training-websites/tryhackme.md)
-* [HackTheBox](training-websites/hackthebox.md)
-* [OverTheWire](training-websites/overthewire.md)
+* [General Training](training-websites/general-training.md)
+* [Offense](training-websites/offense/README.md)
+  * [CyberSecLabs](training-websites/offense/cyberseclabs.md)
+  * [TryHackMe](training-websites/offense/tryhackme.md)
+  * [Untitled](training-websites/offense/untitled.md)
+  * [HackTheBox](training-websites/offense/hackthebox.md)
+* [Defense](training-websites/defense/README.md)
+  * [TryHackMe](training-websites/defense/tryhackme.md)
+  * [Defense.io ?](training-websites/defense/defense.io.md)
+* [Command Line](training-websites/command-line/README.md)
+  * [UnderTheWire](training-websites/command-line/underthewire.md)
+  * [OverTheWire](training-websites/command-line/overthewire.md)
 
 ## Bug Bounty
 
-* [EdOverflow's Bug Bounty Guide](bug-bounty/edoverflows-bug-bounty-guide.md)
+* [Training](bug-bounty/training.md)
+* [Resources](bug-bounty/resources/README.md)
+  * [EdOverflow's Bug Bounty Guide](bug-bounty/resources/edoverflows-bug-bounty-guide.md)
 
