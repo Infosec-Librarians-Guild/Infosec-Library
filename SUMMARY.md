@@ -18,7 +18,13 @@
 * [CompTIA](certifications-overview/comptia/README.md)
   * [Security+](certifications-overview/comptia/untitled.md)
 * [eLearnSecurity/INE](certifications-overview/elearnsecurity-ine.md)
-* [Offensive Security](certifications-overview/offensive-security.md)
+* [Offensive Security](certifications-overview/offensive-security/README.md)
+  * [OSEE](certifications-overview/offensive-security/osee.md)
+  * [OSWE](certifications-overview/offensive-security/oswe.md)
+  * [OSED](certifications-overview/offensive-security/osed.md)
+  * [OSEP](certifications-overview/offensive-security/osep.md)
+  * [OSWP](certifications-overview/offensive-security/oswp.md)
+  * [OSCP](certifications-overview/offensive-security/oscp.md)
 
 ## Web <a id="web-1"></a>
 
