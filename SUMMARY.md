@@ -7,6 +7,7 @@
 
 * [Mission Statement](overview/mission-statement.md)
 * [Content Guidelines](overview/content-guidelines.md)
+* [Acknowledgements](overview/acknowledgements.md)
 
 ## Getting Started
 
