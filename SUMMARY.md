@@ -19,10 +19,21 @@
   * [Security+](certifications-overview/comptia/untitled.md)
 * [eLearnSecurity/INE](certifications-overview/elearnsecurity-ine.md)
 * [Offensive Security](certifications-overview/offensive-security/README.md)
-  * [OSCP](certifications-overview/offensive-security/oscp.md)
+  * [OSCP](certifications-overview/offensive-security/oscp/README.md)
+    * [Note Templates](certifications-overview/offensive-security/oscp/note-templates.md)
+    * [Reporting Templates](certifications-overview/offensive-security/oscp/reporting-templates/README.md)
+      * [whoisflynn](certifications-overview/offensive-security/oscp/reporting-templates/whoisflynn.md)
+    * [Course Reviews](certifications-overview/offensive-security/oscp/course-reviews.md)
+    * [Study Guides](certifications-overview/offensive-security/oscp/study-guides.md)
   * [OSWP](certifications-overview/offensive-security/oswp.md)
   * [OSEP](certifications-overview/offensive-security/osep.md)
-  * [OSWE](certifications-overview/offensive-security/oswe.md)
+  * [OSWE](certifications-overview/offensive-security/oswe/README.md)
+    * [Original Release](certifications-overview/offensive-security/oswe/original-release/README.md)
+      * [Course Reviews](certifications-overview/offensive-security/oswe/original-release/course-reviews.md)
+      * [Study Guides](certifications-overview/offensive-security/oswe/original-release/study-guides.md)
+    * [2020 Revision \(Current\)](certifications-overview/offensive-security/oswe/2020-revision-current/README.md)
+      * [Course Reviews](certifications-overview/offensive-security/oswe/2020-revision-current/course-reviews.md)
+      * [Study Guides](certifications-overview/offensive-security/oswe/2020-revision-current/study-guides.md)
   * [OSED](certifications-overview/offensive-security/osed.md)
   * [OSEE](certifications-overview/offensive-security/osee.md)
 
@@ -66,4 +77,21 @@
 * [Training](bug-bounty/training.md)
 * [Resources](bug-bounty/resources/README.md)
   * [EdOverflow's Bug Bounty Guide](bug-bounty/resources/edoverflows-bug-bounty-guide.md)
+
+## Antivirus Evasion
+
+* [Untitled](antivirus-evasion/untitled.md)
+
+## Mobile Hacking
+
+* [Android](mobile-hacking/android.md)
+* [iOS](mobile-hacking/ios.md)
+
+## Apple/OSX
+
+* [Untitled](apple-osx/untitled.md)
+
+## Command and Control \(C2\)
+
+* [Untitled](command-and-control-c2/untitled.md)
 
