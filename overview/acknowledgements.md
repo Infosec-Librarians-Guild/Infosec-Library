@@ -1,8 +1,8 @@
 ---
-description: Acknowledgement and Contributions
+description: The list of all contributors to the ILG project.
 ---
 
-# Acknowledgements
+# Contributions
 
 Please add your name here as a contributor :\)
 
