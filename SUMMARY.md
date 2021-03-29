@@ -47,14 +47,12 @@
 
 * [Linux](binary-exploitation/linux.md)
 * [Windows](binary-exploitation/windows/README.md)
-  * [Heap Exploitation \(DEMO\)](binary-exploitation/windows/untitled-1.md)
+  * [Heap Exploitation \(DEMO\)](binary-exploitation/windows/heap-exploitation.md)
 
 ## Reverse Engineering
 
----
-
-* [Resources](resources.md)
-* [Training](untitled.md)
+* [Resources](reverse-engineering/resources.md)
+* [Training](reverse-engineering/untitled.md)
 
 ## Training Websites
 
